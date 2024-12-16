@@ -1,5 +1,7 @@
 ## 📍Selected Projects
-[Trans Voxia](https://github.com/DonaldJasper0621/Trans-Voxia-Speech-to-Speech-Converter)
+* [Trans Voxia](https://github.com/DonaldJasper0621/Trans-Voxia-Speech-to-Speech-Converter)
+* [UX Design](https://shihyian3.wixsite.com/my-site-1)
+* [AI Physiatrist](https://makerpro.cc/intel-devcup/ai復健師-顏面神經失調/)
 
 <!--
 **J-ihsuan/J-ihsuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
